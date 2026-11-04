@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3141,
+      "sha256": "969fc23f912a053b2572277a0fa359fe67bf06a42695428d5b64397c91a2b38f"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1596,
-      "sha256": "48c17bf9a10730eb294a6120a19a504e6066857e0f756d6175b99e1ffcad56d1"
+      "bytes": 1818,
+      "sha256": "4f8c8fa6d6bb393056d1bf7b56efb1cfc4aae6018c26fa26c3d973e2a898bb5b"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/shoegaze-inspired-midi.zip",
-      "bytes": 34231,
-      "sha256": "9d4104801f39a20e85666bc395e6ee0e59dd3f3d23dfa2f15aef2649f913e930"
+      "bytes": 35732,
+      "sha256": "23b92cdc586c5c2bbbbf5fe998e7f4c17fa3985394f9e25d9f8af00102595d31"
     },
     {
       "path": "index.html",
@@ -228,18 +238,13 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1045,
-      "sha256": "987d5f96778a5fafe669681985c7ec7ae37901f70c1714715a27f1b31caf41ea"
+      "bytes": 1128,
+      "sha256": "ee415938ed8858bb4f722b31d9518dad6a518d298abbf203b98f1c491fc4fbf4"
     },
     {
       "path": "preview/shoegaze-inspired-simple-synth-preview.mp3",
       "bytes": 1602499,
       "sha256": "d8406ce536d8a6ae41e6d34404608512dbd023581cf28215bc99bcdb3cf7a335"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2980,
-      "sha256": "368851c61b4c889a3cc8f1eab8104b904c94a0f7a67da03050fbd60f09c4a274"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47317,
-      "sha256": "c03364c461c23c884745fed0b76c6e917ef0d690b14bcf83bb5e30ce46008704"
+      "bytes": 47494,
+      "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
     },
     {
       "path": "tools/validate_release.py",
