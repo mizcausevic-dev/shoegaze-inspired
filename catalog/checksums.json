@@ -12,6 +12,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 788,
+      "sha256": "c4a07b32ad73d4e7631a4ed166cbcd21e53a337cdbf9178df836c2a04f600de6"
+    },
+    {
       "path": "README.md",
       "bytes": 3141,
       "sha256": "969fc23f912a053b2572277a0fa359fe67bf06a42695428d5b64397c91a2b38f"
@@ -92,9 +97,39 @@
       "sha256": "23b92cdc586c5c2bbbbf5fe998e7f4c17fa3985394f9e25d9f8af00102595d31"
     },
     {
+      "path": "film/motion-artwork.webp",
+      "bytes": 56076,
+      "sha256": "b2abe04ec4196c046fa8712726eccfab3bfd5b98391bf7e8e9ea4a97f1cc6392"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1195,
+      "sha256": "c451114a1ff57f0f850a7b8a11ca0882c5a09b9c4db7873ceaf908360400dbac"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 3104,
+      "sha256": "32cc05c00931375f4b22a1bd09466498d5ff962b1656e179413aab18d1b5f03c"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 34440,
+      "sha256": "5f3813b342aae86dd76a40b3ac12bf8717a63901b537de33996f6d50475c39c7"
+    },
+    {
+      "path": "film/motion-preview.mp4",
+      "bytes": 696099,
+      "sha256": "39bf7e98b08ff5a4f3417685a84cf1fbeae211b97e474f0a9c15a36acc7166c0"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
       "path": "index.html",
-      "bytes": 8847,
-      "sha256": "dbb5fa9961dccc1decc851c7573be2c2d9c3f962d24999c9870a000b36d4b624"
+      "bytes": 9365,
+      "sha256": "120dc59f104a6808aa6338643d45472d3d440c7f608e09402e57bff67bed2ad3"
     },
     {
       "path": "midi/sg01-milk-glass/chord_pulse.mid",
@@ -265,6 +300,11 @@
       "path": "tools/build_release.py",
       "bytes": 47494,
       "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
     },
     {
       "path": "tools/validate_release.py",

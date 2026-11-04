@@ -1,0 +1,26 @@
+{
+  "title": "Shoegaze-Inspired",
+  "study": "sg01",
+  "bpm": 116,
+  "source_audio": "preview/shoegaze-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "d8406ce536d8a6ae41e6d34404608512dbd023581cf28215bc99bcdb3cf7a335",
+  "source_midi": "midi/sg01-milk-glass/sg01-milk-glass-combined.mid",
+  "source_midi_sha256": "c82b85fd0c3d85f733902c8712ecf1b33baa0956235155aec687cc9478aaab9c",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "abf3907336efee8ab20249fee9abb24137c7b9f3ce9592f004da7cd71d2e0cb7",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "b2abe04ec4196c046fa8712726eccfab3bfd5b98391bf7e8e9ea4a97f1cc6392",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "39bf7e98b08ff5a4f3417685a84cf1fbeae211b97e474f0a9c15a36acc7166c0",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
