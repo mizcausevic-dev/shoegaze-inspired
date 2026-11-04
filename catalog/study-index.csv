@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+sg01,Milk Glass,pack-local equal-tempered pitch collection,E,116,4/4,480,32,61440,midi/sg01-milk-glass/sg01-milk-glass-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sg02,Blur Field,pack-local equal-tempered pitch collection,G,116,4/4,480,32,61440,midi/sg02-blur-field/sg02-blur-field-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sg03,Open Chord,pack-local equal-tempered pitch collection,A#,116,4/4,480,32,61440,midi/sg03-open-chord/sg03-open-chord-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sg04,White Return,pack-local equal-tempered pitch collection,F,116,4/4,480,32,61440,midi/sg04-white-return/sg04-white-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
