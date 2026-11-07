@@ -12,21 +12,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 788,
-      "sha256": "c4a07b32ad73d4e7631a4ed166cbcd21e53a337cdbf9178df836c2a04f600de6"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3141,
-      "sha256": "969fc23f912a053b2572277a0fa359fe67bf06a42695428d5b64397c91a2b38f"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -93,8 +78,8 @@
     },
     {
       "path": "downloads/shoegaze-inspired-midi.zip",
-      "bytes": 35732,
-      "sha256": "23b92cdc586c5c2bbbbf5fe998e7f4c17fa3985394f9e25d9f8af00102595d31"
+      "bytes": 36719,
+      "sha256": "1c8c6293c1dddf62954b26de8b92da0baad53064677b55a30618ba13e20c40fa"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -128,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9365,
-      "sha256": "120dc59f104a6808aa6338643d45472d3d440c7f608e09402e57bff67bed2ad3"
+      "bytes": 9555,
+      "sha256": "8db55ad151a7726c140102e67baa421207710072e20eac0276c7a2d06efb3a16"
     },
     {
       "path": "midi/sg01-milk-glass/chord_pulse.mid",
@@ -272,6 +257,16 @@
       "sha256": "81dae9bd02c157ee57af58195b6363e6c7214366e115aeb4bb649ac2aabc2aee"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 788,
+      "sha256": "c4a07b32ad73d4e7631a4ed166cbcd21e53a337cdbf9178df836c2a04f600de6"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1128,
       "sha256": "ee415938ed8858bb4f722b31d9518dad6a518d298abbf203b98f1c491fc4fbf4"
@@ -280,6 +275,16 @@
       "path": "preview/shoegaze-inspired-simple-synth-preview.mp3",
       "bytes": 1602499,
       "sha256": "d8406ce536d8a6ae41e6d34404608512dbd023581cf28215bc99bcdb3cf7a335"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3256,
+      "sha256": "3395957a1cc87393e372e9662b6fabb22953afe58d81bc4f7b173afbbb36cd45"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
